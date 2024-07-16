@@ -1,0 +1,13 @@
+.order-filter {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.search-field {
+  flex-grow: 1;
+}
+
+.search-button {
+  padding: 10px;
+}

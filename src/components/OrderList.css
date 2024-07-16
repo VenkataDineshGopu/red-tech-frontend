@@ -1,0 +1,53 @@
+.order-list-controls {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.order-list {
+  width: 100%;
+}
+
+.order-list table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.order-list th,
+.order-list td {
+  padding: 10px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+.order-row {
+  position: relative;
+}
+
+.order-row .actions {
+  position: absolute;
+  right: 10px;
+  display: none;
+}
+
+.order-row:hover .actions {
+  display: flex;
+  border-bottom: 0px;
+}
+
+.actions button,
+.actions .MuiIconButton-root {
+  margin: 0 5px;
+}
+
+.order-row td {
+  position: relative;
+}
+
+.order-row:hover td .actions {
+  display: block;
+}
+.MuiCheckbox-root.Mui-checked {
+  color: red !important;
+}
