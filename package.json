@@ -2,7 +2,7 @@
   "name": "red-tech-frontend",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://VenkataDineshGopu.github.io/red-tech-frontend",
+  "homepage": "https://venkatadineshgopu.github.io/red-tech-frontend",
   "dependencies": {
     "@date-io/date-fns": "^2.16.0",
     "@emotion/react": "^11.11.4",
