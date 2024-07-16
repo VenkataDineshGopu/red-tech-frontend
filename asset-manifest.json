@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.0d272fb4.css",
-    "main.js": "/static/js/main.a9666a97.js",
-    "index.html": "/index.html",
-    "main.0d272fb4.css.map": "/static/css/main.0d272fb4.css.map",
-    "main.a9666a97.js.map": "/static/js/main.a9666a97.js.map"
+    "main.css": "/red-tech-frontend/static/css/main.0d272fb4.css",
+    "main.js": "/red-tech-frontend/static/js/main.20149e10.js",
+    "index.html": "/red-tech-frontend/index.html",
+    "main.0d272fb4.css.map": "/red-tech-frontend/static/css/main.0d272fb4.css.map",
+    "main.20149e10.js.map": "/red-tech-frontend/static/js/main.20149e10.js.map"
   },
   "entrypoints": [
     "static/css/main.0d272fb4.css",
-    "static/js/main.a9666a97.js"
+    "static/js/main.20149e10.js"
   ]
 }
